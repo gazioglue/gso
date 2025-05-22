@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # GSO: Gradient-guided Swarm Optimization
 
 A Python implementation of the Gradient-guided Swarm Optimization algorithm, designed for solving binary optimization problems. The algorithm uses a mathematically grounded approach combining gradient-based directional guidance with neighborhood learning mechanisms.
@@ -89,4 +88,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 =======
 # gso
 Gradient-guided Swarm Optimization (GSO): A transfer function-free binary optimization algorithm.
->>>>>>> 5c05f44ebf9e98ab237b102ab0d355e0f0ae8b14
